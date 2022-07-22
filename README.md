@@ -8,4 +8,4 @@ It is based on the EURO-VO tutorial (http://www.euro-vo.org/?q=science/scientifi
 Massimo Ramella & Giulia Iafrate (INAF - Osservatorio Astronomico di Trieste), later updated by Caroline Bot,
 Thomas Boch, Jenny G. Sorce and Katharina A. Lutz, Stefania Amodeo (all CDS, CNRS, Observatoire astronomique de Strasbourg).
 
-This version is updated for the 5th Cosmology school in July 2022 and includes state-of-the-art software and data.
+This version is updated for the 5th Cosmology school in Krakow, July 2022 and includes state-of-the-art software and data.
